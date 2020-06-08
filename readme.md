@@ -1,2 +1,8 @@
-<h2>Deepfill</h2>
-Confronting result between <a href="https://github.com/awslabs/datawig">datawig</a> and my own solution for imputation missing values in raw dataset (format supported: .csv).
+# Deepfill
+Project of Data Science and Machine Learning.
+
+Keras NN for imputing missing categorical values in a raw dataset.
+# Result
+Compared with [datawig](https://github.com/awslabs/datawig)
+
+ 
