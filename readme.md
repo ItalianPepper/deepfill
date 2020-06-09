@@ -1,7 +1,7 @@
 # Deepfill
 Project of Data Science and Machine Learning.
 
-Keras NN for imputing missing values in categorical columns in a raw dataset.
+Keras NN for imputing missing values in a categorical column using the other columns of a dataset.
 ## Result
 Compared with [datawig](https://github.com/awslabs/datawig) on dataset 'mae_train_dataset.csv' in [datawig/examples/](https://github.com/awslabs/datawig/tree/master/examples),
 'mae_train_dataset' present 4 columns: color, finish, title, text.
